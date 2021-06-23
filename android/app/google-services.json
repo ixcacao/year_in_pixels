@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "170334908117",
+    "project_id": "year-in-pixels-d43f5",
+    "storage_bucket": "year-in-pixels-d43f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170334908117:android:73884e88ac5a536947fc5c",
+        "android_client_info": {
+          "package_name": "com.nvy.year_in_pixels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170334908117-jot5ugc3t2vanbl60octuedr42mef7ug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nvy.year_in_pixels",
+            "certificate_hash": "443870a0ccae587aaeacd8586eaab09eac8e660c"
+          }
+        },
+        {
+          "client_id": "170334908117-31abi0k66kdopnjqpb7hemhhiss6afv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ9JW9LhZ-sDzk6UFxY16Wyt6Cs0HII8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170334908117-31abi0k66kdopnjqpb7hemhhiss6afv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
