@@ -1,4 +1,9 @@
 # Year in Pixels
 
-This project is a journalling app created with flutter, to record your mood for each day of the year. You can also add images, text, and view insights(premium vers) on your feelings.
+This project is a journalling app to record your mood for each day of the year. You can add images, text, and view insights(premium version) on your feelings.
 
+Created with Flutter. 
+
+Integrated with Firebase for cloud storage, real-time database synchronization, and user authentication.  
+
+The app is freemium, using AdMob for the free version and RevenueCat for user subscription.
