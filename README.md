@@ -1,6 +1,6 @@
 # Year in Pixels
 
-![image](https://github.com/ixcacao/year_in_pixels/assets/60083259/407ebd3b-3b4e-488f-b501-8d2127f96983)
+![image](https://github.com/ixcacao/year_in_pixels/assets/60083259/407ebd3b-3b4e-488f-b501-8d2127f96983 =270x448.75)
 
 
 
